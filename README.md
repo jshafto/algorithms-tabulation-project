@@ -2,7 +2,7 @@
 Completed as part of the App Academy Curriculum. Implementation by Juliet Shafto and Wren McPherson.
 
 ## Project Status
-`stepper` solved, `nonAdjacentSums` underway.
+Two of the 5 problems (`stepper` and `nonAdjacentSums`) complete.
 
 ## Description
 This project contains two test-driven problems and one problem on LeetCode.com.
